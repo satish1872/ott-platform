@@ -127,8 +127,9 @@ To get started with the project, follow these steps:
    In the Vercel dashboard, go to the project settings and add the following environment variables:
 
    ```env
-   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-   NEXT_PUBLIC_SUPABASE_KEY=your_supabase_key
+  NEXT_PUBLIC_SUPABASE_URL="https://xvaymnbjuytecjttixbl.supabase.co"
+
+NEXT_PUBLIC_SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh2YXltbmJqdXl0ZWNqdHRpeGJsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY3MTU3NTUsImV4cCI6MjAzMjI5MTc1NX0.sQg43SVhv6m0S_yM0F0fN_HqidD8jhe2O1cRutodnsg"
    ```
 
 4. **Deploy the Project:**
@@ -293,3 +294,8 @@ Use the following mock data for testing:
   }
 ]
 ```
+
+<img width="1512" alt="remove-item" src="https://github.com/satish1872/ott-platform/assets/41827034/08f7a45c-b2c2-4ca9-a328-cb87eefe2725">
+<img width="1512" alt="List-My-Items" src="https://github.com/satish1872/ott-platform/assets/41827034/e25fe41b-9b8e-494b-9988-c14f965e153d">
+<img width="1512" alt="Add-to-My-List" src="https://github.com/satish1872/ott-platform/assets/41827034/a14bfd8e-09f7-4065-8d0d-288ed997af88">
+
