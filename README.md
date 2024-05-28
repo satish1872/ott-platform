@@ -298,4 +298,10 @@ Use the following mock data for testing:
 <img width="1512" alt="remove-item" src="https://github.com/satish1872/ott-platform/assets/41827034/08f7a45c-b2c2-4ca9-a328-cb87eefe2725">
 <img width="1512" alt="List-My-Items" src="https://github.com/satish1872/ott-platform/assets/41827034/e25fe41b-9b8e-494b-9988-c14f965e153d">
 <img width="1512" alt="Add-to-My-List" src="https://github.com/satish1872/ott-platform/assets/41827034/a14bfd8e-09f7-4065-8d0d-288ed997af88">
+<img width="1512" alt="Screenshot 2024-05-28 at 11 11 09 AM" src="https://github.com/satish1872/ott-platform/assets/41827034/3e4b40f8-cab0-4228-935c-41c648b2c220">
+<img width="1512" alt="Screenshot 2024-05-28 at 11 10 48 AM" src="https://github.com/satish1872/ott-platform/assets/41827034/28395c46-0311-4027-94a6-241ba4940172">
+<img width="1512" alt="Screenshot 2024-05-28 at 11 09 52 AM" src="https://github.com/satish1872/ott-platform/assets/41827034/3d65d407-1548-4873-b4ef-150793890b68">
+<img width="1512" alt="Screenshot 2024-05-28 at 11 08 48 AM" src="https://github.com/satish1872/ott-platform/assets/41827034/4c8518c8-034b-43f1-a5be-9fc71ef2f54c">
+
+
 
